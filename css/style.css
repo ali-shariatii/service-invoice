@@ -1,0 +1,11 @@
+/* RESERVED FOR PERSONAL CUSTOMIZATION */
+
+td{
+    width: 10em; 
+    height: 2em; 
+    border-style: inset;
+}
+
+main, header {
+    margin: 1em;
+}
